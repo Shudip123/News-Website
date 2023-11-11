@@ -5,7 +5,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
-
+##Install - react-router-dom
+          react-infinity-scroll-component
+          react-topp-loading-bar
 ### `npm start`
 
 Runs the app in the development mode.\
